@@ -5,6 +5,8 @@ import CharacterGrid from './components/characters/CharacterGrid'
 import Search from './components/ui/Search'
 import './App.css'
 
+// Add comments
+
 const App = () => {
   const [items, setItems] = useState([])
   const [isLoading, setIsLoading] = useState(true)
